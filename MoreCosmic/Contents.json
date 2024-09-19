@@ -1,0 +1,66 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "1a5da2bed638492dbdc8f2ff06b4de4e",
+				"Address" : "8ZKjb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "aef3504e5a0030882a122591be182ca6",
+				"Address" : "8ZKjb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "Nos",
+			"Author" : "suika",
+			"Package" : "1"
+		},
+		{
+			"Main" : {
+				"Hash" : "d01c8fb520eeaaa6dc1d21ba8e283006",
+				"Address" : "B2Dnei_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "葉っぱ",
+			"Author" : "suika",
+			"Package" : "1"
+		},
+		{
+			"Main" : {
+				"Hash" : "c0206297921c06d008a417ea1bc2db4e",
+				"Address" : "TnEVRbrnb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "顔面スイカ",
+			"Author" : "suika",
+			"Package" : "1"
+		}
+	],
+	"Nameplates" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "1",
+			"Format" : "suika visors",
+			"Priority" : 1
+		}
+	]
+}
